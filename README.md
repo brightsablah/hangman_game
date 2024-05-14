@@ -10,7 +10,8 @@
         - else, display prompt to guess a letter 
 
 - if part of it, 
-    replace space with the guessed letter.
-    then check if all blanks are filled
-        if yes, you win
-        if no, display promt to guess letter again
+    - replace space with the guessed letter.
+    - then check if all blanks are filled
+        - if yes, you win
+        - if no, display promt to guess letter again
+- quit game
