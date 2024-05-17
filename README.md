@@ -15,3 +15,7 @@
         - if yes, you win
         - if no, display promt to guess letter again
 - quit game
+
+* additional information
+  - after every loss of life, display athe hangman progrssively being drawn to a perfect picture
+  - 
