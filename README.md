@@ -18,4 +18,4 @@
 
 * additional information
   - after every loss of life, display athe hangman progrssively being drawn to a perfect picture
-  - 
+  - display game won or game over depending on the performance of the player
