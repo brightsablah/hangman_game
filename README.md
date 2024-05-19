@@ -27,4 +27,4 @@
 	- for two player version, scores can be kept and then both players take turn in choosing a word as well as guessing.
 	- that will continue until the game is ended.
 	- another game ending mode can be introduced where the two players can have a target score to hit. the first person to reach this score wins the game.
-	- phrase version can be added.
+	- phrase version can be added. proverbs, wise sayings and all
