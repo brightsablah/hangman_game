@@ -1,5 +1,5 @@
 # Hangman Game Project
-	- generate a word 
+	- generate a word
 	- show as many blanks as the number of characters in the word 
 	- user inputs a guess letter 
 	- check if guessed letter is part of the secret word 
@@ -27,3 +27,4 @@
 	- for two player version, scores can be kept and then both players take turn in choosing a word as well as guessing.
 	- that will continue until the game is ended.
 	- another game ending mode can be introduced where the two players can have a target score to hit. the first person to reach this score wins the game.
+	- phrase version can be added.
